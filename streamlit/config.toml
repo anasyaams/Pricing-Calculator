@@ -1,0 +1,12 @@
+[theme]
+base="light"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[ui]
+hideTopBar = true
+
+[server]
+runOnSave = true
